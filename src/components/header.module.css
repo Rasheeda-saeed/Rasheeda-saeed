@@ -1,0 +1,8 @@
+.header
+{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(226, 204, 226);
+    font-size: larger;
+    font-style: bold;
+}

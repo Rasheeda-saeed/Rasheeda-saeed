@@ -1,0 +1,47 @@
+/* ProductCard.css */
+.card {
+    border: 1px solid #e7e7e7;
+    margin-bottom: 20px;
+    transition: box-shadow 0.3s ease;
+}
+  .card:hover {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-img-top {
+    width: 150px;
+    height: auto;
+    object-fit: contain;
+    padding: 20px;
+    
+  }
+  
+  .card-body {
+    padding: px;
+  }
+  
+  .card-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    height: 50px;
+    overflow: hidden;
+  }
+  
+  .card-text {
+    color: #b12704;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    background-color: #ffa41c;
+    border-color: #ffa41c;
+    font-weight: bold;
+  }
+  
+  .btn-primary:hover {
+    background-color: #ff9900;
+    border-color: #ff9900;
+  }
+  

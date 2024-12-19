@@ -1,0 +1,34 @@
+/* Custom styling for the Contact Us page */
+.contact-container {
+  margin-top: 30px;
+  align-content: center;
+}
+
+.card-img {
+  border-radius: 10px; /* Add rounded corners to the banner image */
+}
+
+.card-body h5 {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.card-body p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+.card-text-1 {
+color: red;
+font-weight: bold
+}
+.card-title {
+    color:blue;
+}
+.card-title-p{
+    font-weight: bold;
+}

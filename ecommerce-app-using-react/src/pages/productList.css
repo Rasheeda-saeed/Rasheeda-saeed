@@ -1,0 +1,23 @@
+/* ProductListPage.css */
+.container {
+    margin-top: 20px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .col-md-3 {
+    display: flex;
+    justify-content: center;
+    background-color:rgb(238, 175, 99);
+  }
+  .card-img-top{
+    width: 150px;
+    height: 150px;
+    object-fit:contain;
+    border-radius: 5px;
+  }
+  

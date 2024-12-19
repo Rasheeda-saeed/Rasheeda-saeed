@@ -1,0 +1,17 @@
+.card-title-3{
+
+
+    color: orangered;
+  font-size: 2em; 
+  line-height: 1.5;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  }
+  .card-title-4{
+    color: orangered
+  }
+  .card-text{
+    justify-self: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
